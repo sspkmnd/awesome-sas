@@ -79,5 +79,5 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 To the extent possible under law, [Igor Khorlo](https://github.com/sspkmnd) has waived all copyright and related or neighboring rights to this work. See the [LICENSE](LICENSE) file for details.
 
-[oss-icon]: https://cdn.rawgit.com/sspkmnd/awesome-sas/master/media/oss.svg
-[freeware-icon]: https://cdn.rawgit.com/sspkmnd/awesome-sas/master/media/free.svg
+[oss-icon]: https://cdn.rawgit.com/sspkmnd/awesome-sas/c0a1f61e/media/oss.svg
+[freeware-icon]: https://cdn.rawgit.com/sspkmnd/awesome-sas/c0a1f61e/media/free.svg
